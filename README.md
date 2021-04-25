@@ -15,7 +15,7 @@ Above is the output of the final step of the analysis.
     * 25% of Vine Reviews were 5 stars, and 49.4% of Non-Vine Reviews were 5 stars.
 
 ## Summary
-While it may appear based on the above that there is no positivity bias for sponsored ("Vine") reviews, the amount of sponsored reviews is so few in this category that no conclusion can be drawn. Because we filtered out reviews that had been voted <50% "helpful", there is a possibility that some (potentially overly positive) sponsored reviews were removed from our working data. 
+While it may appear based on the above that there is no positivity bias for sponsored ("Vine") reviews, the amount of sponsored reviews is so few (4 / 1006, less than half a percent!) in this category that no definitive conclusion can be drawn. Because we filtered out reviews that had been voted <50% "helpful", there is a possibility that some (potentially overly positive) sponsored reviews were removed from our working data. 
 
 ### Additional Analyses Suggestions
 * Perform a similar analysis without filtering out "unhelpful" reviews or at least lowering the % helpful cutoff
